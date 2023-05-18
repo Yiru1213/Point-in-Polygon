@@ -36,4 +36,4 @@ Illustration of these tests is in the PDF file Point-in-Polygon Report.
 
 The plot of the testing result is given below:
 
-![](images/pip3-04.png){width="500"}
+![](images/pip3-04.png){width="482"}
